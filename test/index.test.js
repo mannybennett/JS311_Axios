@@ -5,7 +5,7 @@ const {
 } = require('../src')
 
 describe('API protocol practice', () => {
-// Note that is is not best practice to make actual API calls with 
+// Note that it is not best practice to make actual API calls with 
 // these tests. Normally, you would stub these calls or use nock 
 // to prevent an actual network call and mock the responses for 
 // unit testing. This structure is in place for practice only. 
